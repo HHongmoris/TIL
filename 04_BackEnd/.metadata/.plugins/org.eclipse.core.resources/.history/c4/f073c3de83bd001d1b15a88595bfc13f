@@ -1,0 +1,5 @@
+package com.ssafy.manager;
+
+public class PersonManager {
+
+}
