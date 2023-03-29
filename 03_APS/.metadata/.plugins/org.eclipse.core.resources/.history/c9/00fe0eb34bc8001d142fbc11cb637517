@@ -1,0 +1,19 @@
+package day0322_분할정복;
+
+import java.util.Arrays;
+
+public class 분할정복05_이진검색_API {
+	static int[] arr;
+	static int key;
+	
+	public static void main(String[] args) {
+		//정렬된 상태라고 가정
+		arr = new int[]{2, 4, 6, 7, 8, 9, 17, 28};
+		key = 7;
+		
+		System.out.println(Arrays.binarySearch(arr, key));
+		
+	}
+	
+	
+}

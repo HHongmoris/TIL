@@ -1,0 +1,14 @@
+package day0323_백트래킹;
+
+//bitmasking
+public class 순열_4 {
+	static int[] nums;
+	static int N;
+	static int[] result; //순열결과 저장
+	
+	public static void main(String[] args) {
+		nums = new int[] {0,1,2};
+		N = nums.length;
+		result = new int[N];
+	}
+}

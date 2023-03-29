@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\SSAFY\Desktop\알고응용workspace\day0327_그래프"/>
+		<item value="C:\Users\SSAFY\Desktop\알고응용workspace\day0324_문제풀이"/>
+		<item value="C:\Users\SSAFY\Desktop\알고응용workspace\day0323_백트래킹"/>
+		<item value="C:\Users\SSAFY\Desktop\알고응용workspace\day0321_부분집합_조합"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+</section>

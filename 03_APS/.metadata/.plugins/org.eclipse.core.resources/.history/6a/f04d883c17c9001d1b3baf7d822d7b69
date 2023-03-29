@@ -1,0 +1,12 @@
+package day0323_백트래킹;
+
+//swap
+public class 순열_2 {
+	static int[] nums;
+	static int N;
+	
+	public static void main(String[] args) {
+		nums = new int[] {0,1,2};
+		N = nums.length;
+	}
+}
