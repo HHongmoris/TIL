@@ -1,0 +1,15 @@
+package com.ssafy.proxy2;
+
+public class PersonProxy implements Person{
+
+	private Person person;
+	
+	//
+	
+	@Override
+	public void coding() {
+		//핵심관심사항
+		person.coding();
+	}
+
+}

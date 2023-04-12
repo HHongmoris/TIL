@@ -1,0 +1,23 @@
+package com.ssafy.proxy;
+
+import java.util.Random;
+
+public class Programmer {
+	//필드는 필요없고
+	
+	//프로그래머의 일상
+	public void coding() throws OuchException {
+		System.out.println("컴퓨터를 부팅한다.");
+		try {
+			System.out.println("열심히 코드를 작성한다.");
+			if(new Random().nextBoolean()) {
+				throw new OuchException();
+			}
+			System.out.println("Git에 Push한다.");			
+		} catch (Exception e) {
+			System.out.println("반차를 낸다.");
+		}
+		System.out.println("보람찬 하루를 마무리한다.");
+		
+	}
+}
